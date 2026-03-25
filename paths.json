@@ -1,8 +1,8 @@
 {
-  "mappings": [
-    "/content/aem-boilerplate/:/"
-  ],
-  "includes": [
-    "/content/aem-boilerplate/"
-  ]
+  "mappings": [
+    "/content/rahul-eds/:/"
+  ],
+  "includes": [
+    "/content/rahul-eds/"
+  ]
 }
