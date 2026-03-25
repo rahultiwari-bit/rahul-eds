@@ -1,8 +1,10 @@
 {
-  "mappings": [
-    "/content/rahul-eds/:/"
-  ],
-  "includes": [
-    "/content/rahul-eds/"
-  ]
+  "mappings": [
+    "/content/rahul-eds/:/",
+    "/content/rahul-eds/configuration:/.helix/config.json",
+    "/content/rahul-eds/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/rahul-eds/"
+  ]
 }
