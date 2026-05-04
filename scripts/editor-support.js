@@ -14,7 +14,7 @@ import { decorateMain } from './scripts.js';
 async function applyChanges(event) {
   // redecorate default content and blocks on patches (in the properties rail)
   const { detail } = event;
-
+ //a
   const resource = detail?.request?.target?.resource // update, patch components
     || detail?.request?.target?.container?.resource // update, patch, add to sections
     || detail?.request?.to?.container?.resource; // move in sections
